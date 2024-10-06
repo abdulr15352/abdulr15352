@@ -8,11 +8,10 @@ I am a Cybersecurity Student at Høyskolen Kristiania, currently in my final yea
 I am eager to start my career in cybersecurity, with a focus on cloud security. My goal is to become a Cloud Security Engineer, applying my skills to protect cloud infrastructure and ensure secure deployments.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Deploy Simple WebApps | <a href="https://github.com/abdulr15352/Deploy-Azure-WebApp/tree/main">Deploy-Azure-WebApp</a>|
 
 
 ## Tools
@@ -62,4 +61,4 @@ I am eager to start my career in cybersecurity, with a focus on cloud security. 
 </div>
 
 ## Projects
-
+- <a href="https://github.com/abdulr15352/Deploy-Azure-WebApp/tree/main">Deploy-Azure-WebApp</a>
