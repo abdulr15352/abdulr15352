@@ -16,10 +16,17 @@ I am eager to start my career in cybersecurity, with a focus on cloud security. 
 
 
 ## Tools
+
 ## Cloud
 <div>
     <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" /> 
+</div>
+
+## Operating System
+<div> 
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" /> 
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" /> 
 </div>
 
 ### Network
@@ -33,6 +40,18 @@ I am eager to start my career in cybersecurity, with a focus on cloud security. 
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## Pentesting
+<div> 
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF5722?&style=for-the-badge&logo=Burp-Suite&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Nmap-005C9C?&style=for-the-badge&logo=Nmap&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Metasploit-2F2F2F?&style=for-the-badge&logo=Metasploit&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-OWASP_ZAP-000000?&style=for-the-badge&logo=OWASP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nikto-B72A33?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-00A1E0?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Parrot_OS-58C2B0?&style=for-the-badge&logo=Parrot-OS&logoColor=white" />
 </div>
 
 ## Certifications
