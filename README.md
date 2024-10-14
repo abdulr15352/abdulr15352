@@ -5,7 +5,7 @@ I am a Cybersecurity Student at Høyskolen Kristiania, currently in my final yea
 
 ## Objective
 
-I am eager to start my career in cybersecurity, with a focus on cloud security. My goal is to become a Cloud Security Engineer, applying my skills to protect cloud infrastructure and ensure secure deployments.
+I am eager to start my career in cybersecurity, with a particular interest in cloud security. My goal is to become a Cloud Security Engineer, applying my skills to protect cloud infrastructure and ensure secure deployments.
 
 ## Skills
 
