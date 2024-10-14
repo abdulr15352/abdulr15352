@@ -12,7 +12,7 @@ I am eager to start my career in cybersecurity, with a focus on cloud security. 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Deploy Simple WebApps | <a href="https://github.com/abdulr15352/Deploy-Azure-WebApp/tree/main">Deploy-Azure-WebApp</a>|
-
+| Deploy application with firewall | <a href="https://github.com/abdulr15352/Deploy-application-firewall/blob/main/README.md">Deploy-application-firewall</a>|
 
 ## Tools
 
@@ -62,3 +62,4 @@ I am eager to start my career in cybersecurity, with a focus on cloud security. 
 
 ## Projects
 - <a href="https://github.com/abdulr15352/Deploy-Azure-WebApp/tree/main">Deploy-Azure-WebApp</a>
+- <a href="https://github.com/abdulr15352/Deploy-application-firewall/blob/main/README.md">Deploy-application-firewall</a>
