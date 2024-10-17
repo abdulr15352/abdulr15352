@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/Yfr0yDwbR8K0DtXjm9/giphy.gif" width="450" height="300">
+</div>
+
 # Hello, I'm Abdul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 <a href="https://www.linkedin.com/in/abdul-rafeh-alvi-8b9a00290/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
