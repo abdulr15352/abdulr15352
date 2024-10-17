@@ -11,7 +11,7 @@ I am a Cybersecurity Student at Høyskolen Kristiania, currently in my final yea
 
 I am eager to start my career in cybersecurity, with a particular interest in cloud security. My goal is to become a Cybersecurity Engineer, applying my skills to protect critical infrastructure and ensure secure environments.
 
-## Skills 👨‍💻
+## Skills <img src="https://media.giphy.com/media/r9pNPo8J0AYB47JjYU/giphy.gif" width="50" height="50">
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
