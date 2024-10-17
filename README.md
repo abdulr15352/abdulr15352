@@ -44,7 +44,7 @@ I am eager to start my career in cybersecurity, with a particular interest in cl
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Pentesting
+## Pentesting <img src="https://media.giphy.com/media/2DUl6BtXGAx2uyqIas/giphy.gif" width="50" height="50">
 <div> 
     <img src="https://img.shields.io/badge/-Burp_Suite-FF5722?&style=for-the-badge&logo=Burp-Suite&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Nmap-005C9C?&style=for-the-badge&logo=Nmap&logoColor=white" /> 
