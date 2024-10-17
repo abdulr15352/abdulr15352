@@ -11,14 +11,16 @@ I am a Cybersecurity Student at Høyskolen Kristiania, currently in my final yea
 
 I am eager to start my career in cybersecurity, with a particular interest in cloud security. My goal is to become a Cybersecurity Engineer, applying my skills to protect critical infrastructure and ensure secure environments.
 
-## Skills <img src="https://media.giphy.com/media/r9pNPo8J0AYB47JjYU/giphy.gif" width="50" height="50">
+## Skills 
+<img src="https://media.giphy.com/media/r9pNPo8J0AYB47JjYU/giphy.gif" width="300" height="300">
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Deploy Simple WebApps | <a href="https://github.com/abdulr15352/Deploy-Azure-WebApp/tree/main">Deploy-Azure-WebApp</a>|
 | Deploy WebApps And Configure Firewalls | <a href="https://github.com/abdulr15352/Deploy-application-firewall/blob/main/README.md">Deploy-application-firewall</a>|
 
-## Tools <img src="https://media.giphy.com/media/EzwHxGPqnk5cacgQ0X/giphy.gif" width="50" height="50">
+## Tools 
+<img src="https://media.giphy.com/media/EzwHxGPqnk5cacgQ0X/giphy.gif" width="250" height="250">
 
 ## Cloud <img src="https://media.giphy.com/media/l46Cq6tr96hk5NoNW/giphy.gif" width="60" height="40">
 <div>
