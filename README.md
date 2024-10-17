@@ -1,4 +1,4 @@
-# Hello, I'm Abdul
+# Hello, I'm Abdul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 <a href="https://www.linkedin.com/in/abdul-rafeh-alvi-8b9a00290/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a Cybersecurity Student at Høyskolen Kristiania, currently in my final year, with a strong passion for cybersecurity and solving complex technical challenges.
@@ -36,7 +36,6 @@ I am eager to start my career in cybersecurity, with a particular interest in cl
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
