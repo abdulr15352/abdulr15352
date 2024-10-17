@@ -16,7 +16,7 @@ I am eager to start my career in cybersecurity, with a particular interest in cl
 
 ## Tools <img src="https://media.giphy.com/media/EzwHxGPqnk5cacgQ0X/giphy.gif" width="50" height="50">
 
-## Cloud
+## Cloud <img src="https://media.giphy.com/media/l46Cq6tr96hk5NoNW/giphy.gif" width="60" height="40">
 <div>
     <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" /> 
