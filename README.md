@@ -16,8 +16,8 @@ I am eager to start my career in cybersecurity, with a particular interest in cl
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Deploy Simple WebApps | <a href="https://github.com/abdulr15352/Deploy-Azure-WebApp/tree/main">Deploy-Azure-WebApp</a>|
-| Deploy WebApps And Configure Firewalls | <a href="https://github.com/abdulr15352/Deploy-application-firewall/blob/main/README.md">Deploy-application-firewall</a>|
+| Deploy Simple WebApps | <a href="https://github.com/abdulr15352/abdulr15352/tree/main/Cloud/Deploy-Azure-WebApp">Deploy-Azure-WebApp</a>|
+| Deploy WebApps And Configure Firewalls | <a href="https://github.com/abdulr15352/abdulr15352/tree/main/Cloud/Deploy-application-firewall">Deploy-application-firewall</a>|
 
 ## Tools <img src="https://media.giphy.com/media/EzwHxGPqnk5cacgQ0X/giphy.gif" width="50" height="50">
 
@@ -65,5 +65,5 @@ I am eager to start my career in cybersecurity, with a particular interest in cl
 </div>
 
 ## Projects
-- <a href="https://github.com/abdulr15352/Deploy-Azure-WebApp/tree/main">Deploy-Azure-WebApp</a>
-- <a href="https://github.com/abdulr15352/Deploy-application-firewall/blob/main/README.md">Deploy-application-firewall</a>
+- <a href="https://github.com/abdulr15352/abdulr15352/tree/main/Cloud/Deploy-Azure-WebApp">Deploy-Azure-WebApp</a>
+- <a href="https://github.com/abdulr15352/abdulr15352/tree/main/Cloud/Deploy-application-firewall">Deploy-application-firewall</a>
