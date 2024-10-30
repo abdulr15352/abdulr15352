@@ -9,7 +9,7 @@ I am a Cybersecurity Student at Høyskolen Kristiania, currently in my final yea
 
 ## Objective 🔭
 
-I am eager to start my career in cybersecurity, with a particular interest for cloud systems. 
+I am eager to start my career in IT, with ambition and a drive to keep seeking continuous learning.
 
 ## Skills 
 <img src="https://media.giphy.com/media/r9pNPo8J0AYB47JjYU/giphy.gif" width="300" height="300">
