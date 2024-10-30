@@ -27,6 +27,9 @@ The ESP32-DHT11-Webserver project aims to create a real-time temperature and hum
 The connectivity between ESP32 and the DHT11 Sensor is fairly easy as it only has three pins. To connect them, plug the VCC and GND of the DHT11 sensor to their respective pins and then we will connect the data pin of the DHT11 sensor to GPIO13(We used Adafruit ESP32 Feather, you might be using a different microcontroller where you might have to use another pin such as D or D2).
 
 ![image0 (1)](https://github.com/user-attachments/assets/f1fca494-b1da-4e50-89a9-1a12096ec19c)
+- Step 2: Setting up IFTTT (If This Then That)
+- Step 3: Programming the ESP32 board
+- Step 4: Testing the solution
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/aeda1008-e7b5-43ad-a30f-b71da4d1241a">
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/8220d3e7-104e-4209-90d8-2268b6a3e683">
