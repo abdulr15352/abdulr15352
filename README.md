@@ -63,8 +63,15 @@ I am eager to start my career in IT, with ambition and a drive to keep seeking c
 <a href="https://tryhackme.com/room/jrpenetrationtester">
     <img src="https://img.shields.io/badge/-Junior_Penetration_Tester-009C00?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </a>
-  <a href="https://www.credly.com/badges/3a3e9494-bc2e-43ab-8e90-7dadd4006b9b/linked_in?t=t1lmip" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-E61E2A?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ (Credly)"/>
+<a href="https://www.credly.com/badges/3a3e9494-bc2e-43ab-8e90-7dadd4006b9b/linked_in?t=t1lmip" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
+  <img
+    src="PATH/TO/security-plus.png"
+    alt="CompTIA Security+ (Credly)"
+    width="180"
+    style="background:#fff;padding:6px;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);transition:transform .08s ease-in-out"
+    onmouseover="this.style.transform='scale(1.03)'"
+    onmouseout="this.style.transform='none'"
+  />
 </a>
 </div>
 
