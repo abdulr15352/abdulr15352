@@ -63,6 +63,9 @@ I am eager to start my career in IT, with ambition and a drive to keep seeking c
 <a href="https://tryhackme.com/room/jrpenetrationtester">
     <img src="https://img.shields.io/badge/-Junior_Penetration_Tester-009C00?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
 </a>
+  <a href="https://www.credly.com/badges/3a3e9494-bc2e-43ab-8e90-7dadd4006b9b/linked_in?t=t1lmip" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-E61E2A?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ (Credly)"/>
+</a>
 </div>
 
 ## Projects
