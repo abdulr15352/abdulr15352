@@ -65,7 +65,7 @@ I am eager to start my career in IT, with ambition and a drive to keep seeking c
 </a>
 <a href="https://www.credly.com/badges/3a3e9494-bc2e-43ab-8e90-7dadd4006b9b/linked_in?t=t1lmip"
    target="_blank" rel="noopener noreferrer" aria-label="CompTIA Security+™ (Credly)">
-  <img src="./assets/securityplus.png" alt="CompTIA Security+™" width="180">
+  <img src="./assets/securityplus.png" width="180">
        alt="CompTIA Security+™"
        width="180" />
 </a>
