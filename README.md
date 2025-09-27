@@ -5,7 +5,7 @@
 # Hello, I'm Abdul <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 <a href="https://www.linkedin.com/in/abdul-rafeh-alvi-8b9a00290/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Cybersecurity Student at Høyskolen Kristiania, currently in my final year, with a strong passion for cybersecurity and solving complex technical challenges.
+I am a Cybersecurity Student at Høyskolen Kristiania, currently pursuing a master's degree, with a strong passion for cybersecurity and solving complex technical challenges.
 
 ## Objective 🔭
 
