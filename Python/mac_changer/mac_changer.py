@@ -7,7 +7,7 @@ new_mac = "00:11:22:33:44:72"
 
 print(f"[+]Changing interface for {interface} to {new_mac}")
 
-subprocess.call("ifconfig" + interface + "down", shell=True)
-subprocess.call("ifconfig" + interface + "hw ether" + new_mac, shell=True)
-subprocess.call("ifconfig" + interface + "up", shell=True)
+subprocess.call("ifconfig " + interface + " down", shell=True)
+subprocess.call("ifconfig " + interface + " hw ether " + new_mac, shell=True)
+subprocess.call("ifconfig " + interface + " up", shell=True)
 subprocess.call("ifconfig", shell=True)
