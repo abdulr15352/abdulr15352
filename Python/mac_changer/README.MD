@@ -1,1 +1,2 @@
-# Only for educational purposes, feel free to test in your own environment
+# Only for educational purposes
+Feel free to test in your own environment
