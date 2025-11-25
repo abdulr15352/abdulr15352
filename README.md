@@ -21,7 +21,7 @@ I am eager to start my career in IT, with ambition and a drive to keep seeking c
 | ESP32 Temperature Sensor with Email alerts | <a href="https://github.com/abdulr15352/abdulr15352/tree/main/IOT/ESP32%20Based%20Webserver%20for%20Temperature%20and%20Humidity%20Measurement%20">ESP32-TEMP-ALERT</a>|
 | Programming a Mac address changer | <a href="https://github.com/abdulr15352/abdulr15352/tree/main/Python/mac_changer">MAC_CHANGER</a>|
 | Programming a banking application with totp for security | <a href="https://github.com/abdulr15352/Bank_app">Bank_app</a>|
-| Running DevOps cycle with note taking app, using github actions | <a href="https://github.com/abdulr15352/mc101-exam">Notes_app</a>|
+| Implemented a DevOps pipeline for the note-taking app using GitHub Actions to automatically build and deploy to an Azure VM | <a href="https://github.com/abdulr15352/mc101-exam">Notes_app</a>|
 
 ## Tools <img src="https://media.giphy.com/media/EzwHxGPqnk5cacgQ0X/giphy.gif" width="50" height="50">
 
