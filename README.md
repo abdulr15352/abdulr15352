@@ -22,6 +22,7 @@ I am eager to start my career in IT, with ambition and a drive to keep seeking c
 | Programming a Mac address changer | <a href="https://github.com/abdulr15352/abdulr15352/tree/main/Python/mac_changer">MAC_CHANGER</a>|
 | Programming a banking application with totp for security | <a href="https://github.com/abdulr15352/Bank_app">Bank_app</a>|
 | Implemented a DevOps pipeline for the note-taking app using GitHub Actions to automatically build and deploy to an Azure VM | <a href="https://github.com/abdulr15352/mc101-exam">Notes_app</a>|
+| Programming a Network Scanner | <a href="https://github.com/abdulr15352/abdulr15352/tree/main/Python/network_scanner">Network_Scanner</a>|
 
 ## Tools <img src="https://media.giphy.com/media/EzwHxGPqnk5cacgQ0X/giphy.gif" width="50" height="50">
 
@@ -79,3 +80,4 @@ I am eager to start my career in IT, with ambition and a drive to keep seeking c
 - <a href="https://github.com/abdulr15352/abdulr15352/tree/main/Python/mac_changer">MAC_CHANGER</a>
 - <a href="https://github.com/abdulr15352/Bank_app">Bank_app</a>
 - <a href="https://github.com/abdulr15352/mc101-exam">Notes_app</a>
+- <a href="https://github.com/abdulr15352/abdulr15352/tree/main/Python/network_scanner">Network_Scanner</a>
